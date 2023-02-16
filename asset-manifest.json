@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mindx_test/static/css/main.073c9b0a.css",
+    "main.js": "/mindx_test/static/js/main.d2da7cab.js",
+    "static/js/787.54594f0e.chunk.js": "/mindx_test/static/js/787.54594f0e.chunk.js",
+    "index.html": "/mindx_test/index.html",
+    "main.073c9b0a.css.map": "/mindx_test/static/css/main.073c9b0a.css.map",
+    "main.d2da7cab.js.map": "/mindx_test/static/js/main.d2da7cab.js.map",
+    "787.54594f0e.chunk.js.map": "/mindx_test/static/js/787.54594f0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d2da7cab.js"
+  ]
+}
