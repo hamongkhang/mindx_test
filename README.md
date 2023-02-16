@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/hamongkhang/mindx_test/blob/master/screencapture-localhost-3000-2023-02-16-20_08_24.png?raw=true?raw=true" border="0" />
+</p>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
